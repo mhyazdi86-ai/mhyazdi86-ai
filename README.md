@@ -9,6 +9,7 @@
   and user-friendly web experiences.
 </p>
 
+---
 
 ## 👨‍💻 About Me
 
@@ -18,11 +19,11 @@
 - 🌱 Currently improving my JavaScript skills
 - 🚀 Passionate about learning, building, and creating new things
 
-- ---
+---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop,git,github,vscode" />
 </p>
 
@@ -34,11 +35,12 @@
 - Front-End Development – Building responsive and interactive websites
 - UI/UX Design – Creating better user experiences
 
-- ---
+---
 
 ## 🚀 Featured Projects
 
 ### 🎵 Vibe5
+
 A music discovery platform designed to help users explore artists, discover their top songs, and build personalized playlists.
 
 - Tech Stack: HTML, CSS, JavaScript
@@ -46,6 +48,7 @@ A music discovery platform designed to help users explore artists, discover thei
 - [Live Demo](https://mhyazdi86-ai.github.io/Vibe5/)
 
 ### ☕ Soren Café
+
 A modern café website built with a focus on clean UI, user experience, and interactive web elements.
 
 - Tech Stack: HTML, CSS, JavaScript
@@ -56,6 +59,6 @@ A modern café website built with a focus on clean UI, user experience, and inte
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mohammad-hossein-yazdi-22465042a/"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="42" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/mhyazdi86-ai"><img src="https://img.icons8.com/fluency/48/github.png" width="42" /></a>&nbsp;&nbsp;&nbsp;<a href="https://mhyazdi86-ai.github.io/mhyazdi86.github.io/"><img src="https://img.icons8.com/fluency/48/domain.png" width="42" /></a>
 </p>
