@@ -51,3 +51,21 @@ A modern café website built with a focus on clean UI, user experience, and inte
 - Tech Stack: HTML, CSS, JavaScript
 - Status: Coming Soon
 - Repository: Coming Soon
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-hossein-yazdi-22465042a/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="42" style="display: block;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mhyazdi86-ai">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="42" style="display: block;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mhyazdi86-ai.github.io/mhyazdi86.github.io/">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="42" style="display: block;" />
+  </a>
+</p>
